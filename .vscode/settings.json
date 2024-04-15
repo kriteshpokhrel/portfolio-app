@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/52643ba6-2c98-4f11-bac7-dae1227acdf1/resourceGroups/VMResource/providers/Microsoft.Web/sites/kriteshpokhrel",
+    "appService.deploySubpath": "build"
+}
