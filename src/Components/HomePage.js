@@ -138,7 +138,7 @@ export default function HomePage() {
               been working since a year as an Associate Software Engineer at
               Eurofins IT Solutions India Pvt Ltd. I am familiar with Angular,
               React on front-end and C# on backend. I am also interested on
-              Azure DevOps and this is what you're seeing.
+              Azure DevOps and this is what I'm experimenting.
             </Typography>
             <hr />
             <Typography variant="findMe">Connect with me:</Typography>
